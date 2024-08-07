@@ -1,0 +1,157 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    background-color: #1D57FF;
+}
+
+/* Navigation Styles */
+nav {
+    background-color: #FF0000;
+    text-align: center;
+    position: sticky;
+    padding: 25px 0;
+    margin-bottom: 20px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin: 0 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 1.2em;
+    transition: color 0.3s ease-in-out;
+}
+
+nav a:hover {
+    color: #FFD800;
+}
+
+header {
+    text-align: center;
+    background-color: #FFD800;
+    color: #20B2AA;
+    padding: 100px 0px;
+}
+
+.name{
+    font-size: 2.5em;
+    margin-bottom: 5px;
+}
+
+.tagline {
+    font-style: italic;
+    color: #008080;
+}
+
+h2, h3 {
+    color: #FF0000;
+}
+
+
+
+.container {
+	background-color: #ffffff;
+	padding: 1.5rem;
+	border-radius: 1rem;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+	max-width: 25rem;
+	margin: auto;
+}
+
+fieldset {
+	border: none;
+	margin: 0;
+	padding: 0;
+}
+
+legend {
+	font-size: 1.2rem;
+	margin-bottom: 0.5rem;
+}
+
+.container {
+	background-color: #ffffff;
+	padding: 1.5rem;
+	border-radius: 1rem;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+	max-width: 25rem;
+	margin: auto;
+}
+
+.paragraph {
+	font-size: 1.2rem;
+	color: #FF0000;
+	font-weight: bold;
+	margin-bottom: 0.5rem;
+}
+
+label {
+	font-size: 1.2rem;
+	display: flex;
+	align-items: center;
+	margin-bottom: 0.5rem;
+	background-color: #f1e8ff;
+	padding: 0.5rem;
+	border-radius: 0.3rem;
+}
+
+input {
+	margin-right: 0.5rem;
+	transform: scale(2);
+	/* Increase the size of the checkboxes */
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+button {
+	padding: 0.5rem 1rem;
+	font-size: 1rem;
+  margin-top: 1rem;
+	background-color: #4CAF50;
+	color: white;
+	border: none;
+	border-radius: 0.4rem;
+	cursor: pointer;
+	transition: background-color 0.3s;
+}
+
+button:hover {
+	background-color: #45a049;
+}
+
+.container-section {
+	margin-top: 1.6rem;
+}
+
+#sentences,
+#shortest,
+#longest {
+	font-size: 1.4rem;
+	color: #333;
+	margin-top: 1rem;
+}
+
+footer {
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: #2A52BE;
+    color: #FFD800;  
+    padding: 20px; 
+    font-size: 1em;
+}
