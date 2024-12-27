@@ -28,7 +28,7 @@ Each and every activity contains directions for the activity + a "ONE PIECE Mome
   * Objects 
 
 Deployed: https://aegerev.github.io/one-piece-activity-zone/
-GitHub repo: https://github.com/aegerev/one-piece-activity-center/
+GitHub repo: https://github.com/aegerev/one-piece-activity-zone
 
 (c) 2024 Alexander Egerev. All Rights Reserved. <br/>
 ONE PIECE, Power Fruits, Straw Hat Pirates, and affiliated characters and items TM and (c)1997, 1999 Eiichiro Oda/Shueisha, Toei Animation. All Rights Reserved.
