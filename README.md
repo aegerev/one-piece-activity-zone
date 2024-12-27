@@ -1,5 +1,3 @@
-# one-piece-activity-zone
-
 ## The One Piece Activity Center
 For more than 25 years, ONE PIECE has been in the hearts and minds of millions. Now, it's nothing short of a CULTURAL PHENOMENON.
 So what do you do when you deeply love ONE PIECE but want to showcase your programming skills? You create the ULTI-mate ONE PIECE Activity Center!
@@ -29,8 +27,8 @@ Each and every activity contains directions for the activity + a "ONE PIECE Mome
   * Arrays
   * Objects 
 
-Deployed: 
+Deployed: https://aegerev.github.io/one-piece-activity-zone/
 GitHub repo: https://github.com/aegerev/one-piece-activity-center/
 
-(c) 2024 Alexander Egerev. All Rights Reserved.
+(c) 2024 Alexander Egerev. All Rights Reserved. <br/>
 ONE PIECE, Power Fruits, Straw Hat Pirates, and affiliated characters and items TM and (c)1997, 1999 Eiichiro Oda/Shueisha, Toei Animation. All Rights Reserved.
